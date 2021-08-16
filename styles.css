@@ -1,0 +1,48 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: #FDE49C;
+    color: white;
+
+}
+.head{
+    text-align: center;
+    color: #DF711B;
+    margin: 0%;
+}
+.wrapper{
+    margin-top: 1%;
+    border: solid 3px #DF711B;
+    border-radius: 8px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: #64C9CF;
+    color: white;
+
+}
+textarea{
+    border: solid 4px #DF711B;
+    border-radius: 5px;
+    background-color: #FFB740;
+    width: 80%;
+    color: white;
+    font-size: 18px;
+}
+.original{
+    margin: 1%;
+}
+.translated{
+    margin: 1%;
+}
+#translate{
+    color: white;
+    background-color:#DF711B;
+    padding: 10px;
+    cursor: pointer;
+    border: solid 3px #DF711B;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
