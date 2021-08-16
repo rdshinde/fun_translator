@@ -19,16 +19,20 @@ body{
     margin-right: 25%;
     padding: 20px;
     background-color: #64C9CF;
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/07/13/35/minion-1125790__340.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
     color: white;
 
 }
 textarea{
     border: solid 4px #DF711B;
     border-radius: 5px;
-    background-color: #FFB740;
+    background-color: #D3B485;
     width: 80%;
     color: white;
-    font-size: 18px;
+    font-size: 20px;
 }
 .original{
     margin: 1%;
