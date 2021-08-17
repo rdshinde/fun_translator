@@ -12,7 +12,7 @@ body{
     margin: 0%;
 }
 .wrapper{
-    margin-top: 1%;
+    margin-top: 0.5%;
     border: solid 3px #DF711B;
     border-radius: 8px;
     margin-left: 25%;
@@ -33,20 +33,30 @@ textarea{
     width: 80%;
     color: white;
     font-size: 20px;
+    opacity: 85%;
 }
 .original{
-    margin: 1%;
+    margin: 0.5%;
 }
 .translated{
-    margin: 1%;
+    margin: 0.5%;
 }
 #translate{
     color: white;
     background-color:#DF711B;
-    padding: 10px;
+    padding: 8px;
     cursor: pointer;
     border: solid 3px #DF711B;
     border-radius: 5px;
     font-size: 20px;
 
+}
+.type{
+    color: white;
+    background-color:#64C9CF;
+    padding: 10px;
+    cursor: pointer;
+    border: solid 2px #DF711B;
+    border-radius: 8px;
+    font-size: 20px;
 }
